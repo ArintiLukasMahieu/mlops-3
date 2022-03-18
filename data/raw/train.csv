@@ -1,2 +1,2 @@
-PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare
-1,0,3,"Braund, Mr. Owen Harris",male,22,1,0,A/5 21170,7.26
+PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare, Test
+1,0,3,"Braund, Mr. Owen Harris",male,22,1,0,A/5 21170,7.26, 'Test'
