@@ -1,0 +1,7 @@
+name: "unittest_input"
+description: "Create a unit test for checking whether all required columns are in our input data"
+author: "Lukas.Mahieu@arinti.ai"
+
+runs:
+  using: "docker"
+  image: "Dockerfile"
