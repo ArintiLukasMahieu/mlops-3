@@ -40,6 +40,6 @@ Now it's up to you to write your own action. I want you to write a unit test tha
 
 ## Next up
 
-When you're finished, we'll continue our session in the next repository: https://github.com/LukasMahieuArinti/mlops-3
+When you're finished, we'll continue our session in the next repository: https://github.com/LukasMahieuArinti/mlops-4
 
 The solution can be found there as well.
